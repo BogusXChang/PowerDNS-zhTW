@@ -664,3 +664,4 @@ msgstr "密码已经修改，请登陆"
 #: inc/error.inc.php:65
 msgid "Zone template with this name already exists, please choose another one."
 msgstr "这个域模板名字已经存在，请选择另一个"
+
