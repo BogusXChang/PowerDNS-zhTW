@@ -413,7 +413,7 @@ msgstr "您無權編輯資源紀錄"
 
 #: inc/error.inc.php:30
 msgid "You do not have the permission to view this record."
-msgstr "你没有权限查看这个记录"
+msgstr "您無權查看資源紀錄"
 
 #: inc/error.inc.php:31
 msgid "You do not have the permission to delete this record."
