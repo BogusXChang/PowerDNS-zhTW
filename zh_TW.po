@@ -571,75 +571,75 @@ msgstr "SOA紀錄第一部份必須有DNS伺服器主機名稱"
 
 #: inc/error.inc.php:79
 msgid "Zone has been added succesfully."
-msgstr "域已经添加成功"
+msgstr "網域已經新增成功"
 
 #: inc/error.inc.php:80
 msgid "Zone has been deleted succesfully."
-msgstr "域已经删除成功"
+msgstr "網域已經刪除成功"
 
 #: inc/error.inc.php:81
 msgid "The user has been updated succesfully."
-msgstr "这个用户已经更新成功"
+msgstr "使用者更新成功"
 
 #: inc/error.inc.php:82
 msgid "The user has been created succesfully."
-msgstr "这个用户已经创建成功"
+msgstr "使用者新增成功"
 
 #: inc/error.inc.php:83
 msgid "The user has been deleted succesfully."
-msgstr "这个用户已经删除成功"
+msgstr "使用者刪除成功"
 
 #: inc/error.inc.php:84
 msgid "The record has been updated succesfully."
-msgstr "这个记录已经更新成功"
+msgstr "資源紀錄更新成功"
 
 #: inc/error.inc.php:85
 msgid "The record has been deleted succesfully."
-msgstr "这个记录已经删除成功"
+msgstr "資源紀錄刪除成功"
 
 #: inc/error.inc.php:86
 msgid "The supermaster has been deleted succesfully."
-msgstr "这个主解析服务器已经删除成功"
+msgstr "超級主要解析伺服器刪除成功"
 
 #: inc/error.inc.php:87
 msgid "The supermaster has been added succesfully."
-msgstr "这个主解析服务器已经添加成功"
+msgstr "超級主要解析伺服器新增成功"
 
 #: inc/error.inc.php:88
 msgid "The permission template has been deleted succesfully."
-msgstr "这个权限模板已经删除成功"
+msgstr "權限範本刪除成功"
 
 #: inc/record.inc.php:270
 msgid "You are trying to delete the SOA record. If are not allowed to remove it, unless you remove the entire zone."
-msgstr "你正在试图删除一个SOA记录，除非移除全部域，否则不要允许移除它"
+msgstr "除非您要刪除整個網域，否則不要試著刪除SOA紀錄"
 
 #: inc/record.inc.php:603
 msgid "Function returned an error (multiple zones matching this zone ID)."
-msgstr "函数返回一个错误（多个域匹配这个域的ID）"
+msgstr "函數傳回值錯誤（多個網域使用同一個ID）"
 
 #: inc/toolkit.inc.php:27
 msgid "You have to create a config.inc.php!"
-msgstr "你必须创建一个config.inc.php!"
+msgstr "必須要有一個config.inc.php!"
 
 #: inc/toolkit.inc.php:87
 msgid "Show page"
-msgstr "显示页"
+msgstr "顯示頁"
 
 #: inc/toolkit.inc.php:106
 msgid "Show zones beginning with"
-msgstr "刚开始的显示域"
+msgstr "顯示以...為開頭的網域"
 
 #: inc/toolkit.inc.php:164
 msgid "An unknown error has occurred."
-msgstr "已发生一个未知错误"
+msgstr "不明錯誤"
 
 #: inc/toolkit.inc.php:172
 msgid "Something has been successfully performed. What exactly, however, will remain a mystery."
-msgstr "之前的已经执行成功，无论如何任是一个未知"
+msgstr "有些事情已經完成，到底做了啥，也許依然是個迷"
 
 #: inc/toolkit.inc.php:184
 msgid "Success!"
-msgstr "成功"
+msgstr "完成"
 
 #: inc/toolkit.inc.php:195
 msgid "Successful!"
@@ -647,21 +647,21 @@ msgstr "成功的"
 
 #: inc/toolkit.inc.php:201
 msgid "back"
-msgstr "后退"
+msgstr "倒退"
 
 #: inc/toolkit.inc.php:240
 msgid "Inactive"
-msgstr "无效"
+msgstr "不可使用"
 
 #: inc/toolkit.inc.php:244
 msgid "Active"
-msgstr "激活"
+msgstr "可用"
 
 #: inc/users.inc.php:365
 msgid "Password has been changed, please login."
-msgstr "密码已经修改，请登陆"
+msgstr "密碼已經更改，請重新登入"
 
 #: inc/error.inc.php:65
 msgid "Zone template with this name already exists, please choose another one."
-msgstr "这个域模板名字已经存在，请选择另一个"
+msgstr "這個網域範本已經存在，請重選一個名稱"
 
