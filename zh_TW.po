@@ -498,44 +498,44 @@ msgstr "您輸入了不對的東西"
 #: inc/error.inc.php:57
 #, php-format
 msgid "Invalid argument(s) given to function %s"
-msgstr "无效的变量输入到了函数 %s"
+msgstr "函數%s的參數錯誤"
 
 #: inc/error.inc.php:58
 #, php-format
 msgid "Invalid argument(s) given to function %s %s"
-msgstr "无效的变量输入到了函数 %s %s"
+msgstr "函數 %s %s 參數錯誤"
 
 #: inc/error.inc.php:59
 msgid "Unknown error."
-msgstr "未知错误"
+msgstr "未知錯誤"
 
 #: inc/error.inc.php:60
 msgid "Enter a valid email address."
-msgstr "输入了一个无效的邮件地址"
+msgstr "請輸入有效的電子郵件"
 
 #: inc/error.inc.php:63
 msgid "Your content field doesnt have a legit value."
-msgstr "你的内容框有一个非法的值"
+msgstr "內容欄位格式不合法"
 
 #: inc/error.inc.php:64
 msgid "Invalid hostname."
-msgstr "无效主机名"
+msgstr "主機名稱無效"
 
 #: inc/error.inc.php:65
 msgid "Invalid record type! You should not even been able to get that here."
-msgstr "无效的记录类型！你应该能明白这里输入。"
+msgstr "資源紀錄類型無效，您理應了解。"
 
 #: inc/error.inc.php:66
 msgid "This is not a valid IPv4 or IPv6 address."
-msgstr "不是一个有效的ipv4或者ipv6地址"
+msgstr "不是一個合法的IPv6或IPv4位址"
 
 #: inc/error.inc.php:67
 msgid "This is not a valid IPv6 address."
-msgstr "无效的ipv6地址"
+msgstr "不合法的IPv6位址"
 
 #: inc/error.inc.php:68
 msgid "This is not a valid IPv4 address."
-msgstr "无效的ipv4地址"
+msgstr "不合法的IPv4位址"
 
 #: inc/error.inc.php:69
 msgid "This is not a valid CNAME. Did you assign an MX or NS record to the record?"
