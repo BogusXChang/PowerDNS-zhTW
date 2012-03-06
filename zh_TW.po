@@ -567,7 +567,7 @@ msgstr "SOA資料欄位只能有五個數字"
 
 #: inc/error.inc.php:76
 msgid "The first part of your SOA record does not contain a valid hostname for a DNS server."
-msgstr "SOA紀錄第一部份必須有一個DNS伺服器主機名稱"
+msgstr "SOA紀錄第一部份必須有DNS伺服器主機名稱"
 
 #: inc/error.inc.php:79
 msgid "Zone has been added succesfully."
