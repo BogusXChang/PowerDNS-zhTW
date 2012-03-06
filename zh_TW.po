@@ -539,35 +539,35 @@ msgstr "不合法的IPv4位址"
 
 #: inc/error.inc.php:69
 msgid "This is not a valid CNAME. Did you assign an MX or NS record to the record?"
-msgstr "这是一个无效的CNAME，是否已分配一个MX或NS记录到记录了"
+msgstr "這個CNAME無效，有可能已經指定了一個MX或NS紀錄於這個資源紀錄"
 
 #: inc/error.inc.php:70
 msgid "You can not point a NS record to a CNAME record. Remove or rename the CNAME record first or take another name."
-msgstr "你不能指定一个NS记录到一个CNAME记录，先另选个名称或移除或更改那个CNAME记录"
+msgstr "您不可以指定NS到一個CNAME，請改名或刪除。"
 
 #: inc/error.inc.php:71
 msgid "NS records must be a hostnames."
-msgstr "NS记录必须是一个主机名"
+msgstr "NS紀錄必須是一個主機名稱"
 
 #: inc/error.inc.php:72
 msgid "You can not point a MX record to a CNAME record. Remove or rename the CNAME record first or take another name."
-msgstr "你必须指定一个MX记录到一个CNAME记录在，先另选个名称或者移除或者改变那个CNAME记录"
+msgstr "您也不可以指定MX到CNAME，請改名或刪除。"
 
 #: inc/error.inc.php:73
 msgid "A prio field should be numeric."
-msgstr "PRIO区域必须是一个数字类型"
+msgstr "PRIO欄位必須是一個數字。"
 
 #: inc/error.inc.php:74
 msgid "At least one of the five last SOA data fields is not numeric."
-msgstr "SOA数据区域有五个中至少一个不是数字类型"
+msgstr "SOA資料欄位五個中至少有一個不是數字"
 
 #: inc/error.inc.php:75
 msgid "You can only have five numeric fields in the SOA record."
-msgstr "必须有五个数字类型在SOA记录中"
+msgstr "SOA資料欄位只能有五個數字"
 
 #: inc/error.inc.php:76
 msgid "The first part of your SOA record does not contain a valid hostname for a DNS server."
-msgstr "你第一部分的SOA记录没有包含一个有效的DNS服务器名"
+msgstr "SOA紀錄第一部份必須有一個DNS伺服器主機名稱"
 
 #: inc/error.inc.php:79
 msgid "Zone has been added succesfully."
