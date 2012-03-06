@@ -409,47 +409,47 @@ msgstr "您無權新增紀錄到這個網域"
 
 #: inc/error.inc.php:29
 msgid "You do not have the permission to edit this record."
-msgstr "您無權編輯資源紀錄"
+msgstr "您無權編輯這個資源紀錄"
 
 #: inc/error.inc.php:30
 msgid "You do not have the permission to view this record."
-msgstr "您無權查看資源紀錄"
+msgstr "您無權查看這個資源紀錄"
 
 #: inc/error.inc.php:31
 msgid "You do not have the permission to delete this record."
-msgstr "你没有权限删除这个记录"
+msgstr "您無權刪除這個資源紀錄"
 
 #: inc/error.inc.php:32
 msgid "You do not have the permission to add a master zone."
-msgstr "你没有权限添加主域"
+msgstr "您無權新增主要網域"
 
 #: inc/error.inc.php:33
 msgid "You do not have the permission to add a slave zone."
-msgstr "你没有权限添加辅助域"
+msgstr "您無權新增次要網域"
 
 #: inc/error.inc.php:34
 msgid "You do not have the permission to delete a zone."
-msgstr "你没有权限删除域"
+msgstr "您無權刪除網域"
 
 #: inc/error.inc.php:35
 msgid "You do not have the permission to delete a supermaster."
-msgstr "你没有权限删除主解析服务器"
+msgstr "您無權删除主解析伺服器"
 
 #: inc/error.inc.php:36
 msgid "You do not have the permission to view this zone."
-msgstr "你没有权限查看这个域"
+msgstr "您無權檢視這個網域"
 
 #: inc/error.inc.php:37
 msgid "You do not have the permission to edit this user."
-msgstr "你没有权限编辑这个用户"
+msgstr "您無權编輯這個使用者"
 
 #: inc/error.inc.php:38
 msgid "You do not have the permission to edit permission templates."
-msgstr "你没有权限编辑权限模板"
+msgstr "您無權编輯權限範本"
 
 #: inc/error.inc.php:39
 msgid "You do not have the permission to delete permission templates."
-msgstr "你没有权限删除权限模板"
+msgstr "您無權删除權限範本"
 
 #: inc/error.inc.php:40
 msgid "You do not have the permission to add a new user."
