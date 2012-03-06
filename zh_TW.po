@@ -453,47 +453,47 @@ msgstr "您無權删除權限範本"
 
 #: inc/error.inc.php:40
 msgid "You do not have the permission to add a new user."
-msgstr "你没有权限添加新的用户"
+msgstr "您無權新增使用者"
 
 #: inc/error.inc.php:41
 msgid "You do not have the permission to delete this user."
-msgstr "你没有权限删除这个用户"
+msgstr "您無權删除這個使用者"
 
 #: inc/error.inc.php:44
 msgid "This is an invalid zone name."
-msgstr "这个是一个无效的域名"
+msgstr "這個網域名稱無效"
 
 #: inc/error.inc.php:45
 msgid "There is already a supermaster with this IP address."
-msgstr "已经有一个主解析服务器是这个ip地址了"
+msgstr "這個超級主要解析伺服器已經存在"
 
 #: inc/error.inc.php:46
 msgid "There is already a zone with this name."
-msgstr "已经有一个域是这个名字了"
+msgstr "這個網域名稱已經存在"
 
 #: inc/error.inc.php:49
 msgid "Username exist already, please choose another one."
-msgstr "用户名已经存在，请另选一个"
+msgstr "使用者名稱已經存在，請另找一個"
 
 #: inc/error.inc.php:50
 msgid "User does not exist."
-msgstr "用户不存在"
+msgstr "使用者名稱不存在"
 
 #: inc/error.inc.php:51
 msgid "You did not enter the correct current password."
-msgstr "你没有输入正确的当前密码"
+msgstr "您沒有正確的輸入舊密碼"
 
 #: inc/error.inc.php:52
 msgid "The two new password fields do not match."
-msgstr "二次密码输入不一致"
+msgstr "兩個新密碼欄位不一致"
 
 #: inc/error.inc.php:53
 msgid "This template is assigned to at least one user."
-msgstr "这个模板已经分配给了至少一个用户"
+msgstr "這個範本已經被指定給使用者。"
 
 #: inc/error.inc.php:56
 msgid "Invalid or unexpected input given."
-msgstr "无效或者意外的输入"
+msgstr "您輸入了不對的東西"
 
 #: inc/error.inc.php:57
 #, php-format
