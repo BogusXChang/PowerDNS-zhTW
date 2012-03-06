@@ -31,7 +31,7 @@ msgstr "名稱"
 #: edit_perm_templ.php:55 edit_perm_templ.php:64 edit_user.php:129
 #: list_perm_templ.php:36 users.php:46
 msgid "Description"
-msgstr "描述"
+msgstr "說明"
 
 #: add_perm_templ.php:63 add_user.php:72 delete_user.php:101
 #: edit_perm_templ.php:84 edit.php:135 edit_record.php:105 edit_user.php:138
